@@ -49,13 +49,13 @@
      "MenuPopup":[
         {
            "name":"201",
-           "description":"Enable by entering a name in MenuPopupName",
-           "href":"/"
+           "description":"Bitaxe Ultra Version 201",
+           "href":"/ultra/201"
         },
         {
          "name":"204",
-         "description":"Enable by entering a name in MenuPopupName",
-         "href":"/"
+         "description":"Bitaxe Ultra Version 204",
+         "href":"/ultra/204"
       }
      ]
   },
@@ -64,7 +64,7 @@
         {
            "column1":"Support",
            "column2":"Products",
-           "column3":"Development",
+           "column3":"Ultra",
            "column4":"Legal"
         }
      ],
@@ -75,12 +75,12 @@
               "href":"/"
            },
            {
-              "name":"Funds",
-              "href":"/funds"
+              "name":"News",
+              "href":"/news"
            },
            {
-              "name":"Product",
-              "href":"/product"
+              "name":"Guides",
+              "href":"/guides"
            }
         ],
         "col2":[
@@ -99,12 +99,12 @@
         ],
         "col3":[
            {
-              "name":"Checklist",
-              "href":"/checklist"
+              "name":"201",
+              "href":"/ultra/201"
            },
            {
-              "name":"Blog",
-              "href":"/blog"
+              "name":"204",
+              "href":"/ultra/204"
            }
         ],
         "col4":[

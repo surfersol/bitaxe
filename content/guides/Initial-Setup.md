@@ -3,19 +3,19 @@ title: "Bitaxe - full open source ASIC bitcoin miner"
 layout: default
 description: "This is a simple paywall post that currently only accepts Alby, it also does not set any global payment variables, you refresh, you lose access. Pretty brutal implementation also easily circumvented if you are a wizard."
 featured: true
-href: "/guides/donate-post"
-article: "Guide Install"
-imagelink: "/project/blog-img/donate-post.jpg"
-date: "Jan 24, 2024"
-datetime: "2024-01-24"
-categorytitle: "Payment"
-authorname: "Cypher Space"
+href: "/guides/initial-setup"
+article: "Initial Setup"
+imagelink: "/project/blog-img/first-setup.jpg"
+date: "Feb 01, 2024"
+datetime: "2024-02-01"
+categorytitle: "New User"
+authorname: "Sync"
 authorrole: "Bitcoin Mass Adoption"
 authorhref: "https://coracle.social/npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5frp9g7p3jdscnhsu049fn"
 authorimageUrl: "https://imgproxy.coracle.social/x/s:280:280/aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNmQ1NzA1MDNjMGI3NWJlNzU5NDYxYWQ0ODUwMzk4YTMzOGZkNTFkOGU2MzEzMTRjODczMWMwZDNlMWI0ZGViNy5wbmc="
 
 image:
-  src: 'https://Bitaxe.com/project/blog-img/donate-post.jpg'
+  src: 'https://Bitaxe.com/project/blog-img/first-setup.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
