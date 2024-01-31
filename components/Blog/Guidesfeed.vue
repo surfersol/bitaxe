@@ -1,6 +1,6 @@
 <script setup>
 const { data } = await useAsyncData("", () =>
-  queryContent("/news/")
+  queryContent("/guides/")
     .where({ _draft: false })
     .sort({ datetime: -1 })
     .find()

@@ -1,9 +1,9 @@
 ---
-title: "Cypher - Sovereign Webstack Building Space"
+title: "Bitaxe - full open source ASIC bitcoin miner"
 layout: default
 description: "This is a more robust front matter blog post example setup"
 featured: true
-href: "/articles/advanced-post"
+href: "/news/advanced-post"
 article: "Advanced Post"
 imagelink: "/project/blog-img/advanced-post.jpg"
 date: "Jan 7, 2024"
@@ -15,20 +15,20 @@ authorhref: "https://coracle.social/npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5fr
 authorimageUrl: "https://imgproxy.coracle.social/x/s:280:280/aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNmQ1NzA1MDNjMGI3NWJlNzU5NDYxYWQ0ODUwMzk4YTMzOGZkNTFkOGU2MzEzMTRjODczMWMwZDNlMWI0ZGViNy5wbmc="
 
 image:
-  src: 'https://cypher.space/project/blog-img/advanced-post.jpg'
+  src: 'https://Bitaxe.com/project/blog-img/advanced-post.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
 head:
   meta:
     - name: 'keywords'
-      content: 'bitcoin, lightning, webapps'
+      content: 'bitaxe, miner, bitcoin'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Cypher.space'
+      content: 'Bitaxe.com'
     - name: 'copyright'
-      content: '© 2024 cypher'
+      content: '© 2024 Bitaxe.com'
 
 ---
 
@@ -56,7 +56,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Images
 
-![Alt text for the image](https://cypher.space/project/cypher-home.gif)
+![Alt text for the image](https://Bitaxe.com/project/cypher-home.gif)
 
 ## List
 

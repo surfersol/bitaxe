@@ -1,10 +1,10 @@
 ---
-title: "Cypher - Sovereign Webstack Building Space"
+title: "Bitaxe - full open source ASIC bitcoin miner"
 layout: default
 description: "This is a simple paywall post that currently only accepts Alby, it also does not set any global payment variables, you refresh, you lose access. Pretty brutal implementation also easily circumvented if you are a wizard."
 featured: true
-href: "/articles/donate-post"
-article: "Donate Post"
+href: "/guides/donate-post"
+article: "Guide Install"
 imagelink: "/project/blog-img/donate-post.jpg"
 date: "Jan 24, 2024"
 datetime: "2024-01-24"
@@ -15,20 +15,20 @@ authorhref: "https://coracle.social/npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5fr
 authorimageUrl: "https://imgproxy.coracle.social/x/s:280:280/aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNmQ1NzA1MDNjMGI3NWJlNzU5NDYxYWQ0ODUwMzk4YTMzOGZkNTFkOGU2MzEzMTRjODczMWMwZDNlMWI0ZGViNy5wbmc="
 
 image:
-  src: 'https://cypher.space/project/blog-img/donate-post.jpg'
+  src: 'https://Bitaxe.com/project/blog-img/donate-post.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
 head:
   meta:
     - name: 'keywords'
-      content: 'bitcoin, lightning, webapps'
+      content: 'bitaxe, miner, bitcoin'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Cypher.space'
+      content: 'Bitaxe.com'
     - name: 'copyright'
-      content: '© 2024 cypher'
+      content: '© 2024 Bitaxe.com'
 ---
 
 ::ContainerDonate

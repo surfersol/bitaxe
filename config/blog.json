@@ -2,7 +2,7 @@
   {
      "id":"1",
      "title":"Simple Post",
-     "href":"/articles/simple-post",
+     "href":"/news/simple-post",
      "featured":true,
      "description":"Simple Post Example",
      "imageUrl":"/project/blog-img/simple-post.jpg",
@@ -22,7 +22,7 @@
   {
      "id":"2",
      "title":"Advanced post",
-     "href":"/articles/advanced-post",
+     "href":"/news/advanced-post",
      "featured":true,
      "description":"Example of Advanced Front Matter Markdown Post",
      "imageUrl":"/project/blog-img/advanced-post.jpg",

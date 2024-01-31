@@ -1,7 +1,7 @@
 {
-  "name":"Cypher.Space",
-  "tagline":"Bitcoin Standard First",
-  "contactmail":"hi@cypher.space",
+  "name":"Bitaxe.com",
+  "tagline":"a fully open source ASIC bitcoin miner.",
+  "contactmail":"info@bitaxe.com",
   "textlogo":"",
   "logo":true,
   "logoimage":"logo-light.png",
@@ -11,10 +11,10 @@
   "defaultlanguage":"en",
   "shop":true,
   "basecurrency":"btc",
-  "btcadress":"bc1q5j9h5dfr6gctjc0tl9gaz02f0p0qs7ecdlcat8",
-  "lnurl":"cypherspace@getalby.com",
-  "albytoken":"ZWU5ZDMZMDETZJFIZI0ZYWMXLTGZNWYTOWIXNJC1MDK0NTZL",
-  "nostr":true,
+  "btcadress":"bc1qfc5fgpy96z0q6ltvh99pcujec9mwzugv3zcste",
+  "lnurl":"osmu@strike.me",
+  "albytoken":"",
+  "nostr":false,
   "nostrrelay":"wss://relay.damus.io",
   "footerlanguage":true,
   "footersocials":true,
@@ -23,7 +23,7 @@
      "facebook":"",
      "instagram":"",
      "twitter":"",
-     "github":"https://github.com/cypher-space",
+     "github":"https://github.com/skot/bitaxe",
      "discord":"",
      "dribble":"",
      "linkedin":"",
@@ -37,25 +37,26 @@
          "href":"/"
       },
         {
-           "name":"Funding",
-           "href":"/funds"
+           "name":"News",
+           "href":"/news"
         },
         {
-           "name":"Product",
-           "href":"/product"
-        },
-        {
-           "name":"Blog",
-           "href":"/blog"
+           "name":"Guides",
+           "href":"/guides"
         }
      ],
-     "MenuPopupName":"",
+     "MenuPopupName":"Ultra",
      "MenuPopup":[
         {
-           "name":"Example Item",
+           "name":"201",
            "description":"Enable by entering a name in MenuPopupName",
            "href":"/"
-        }
+        },
+        {
+         "name":"204",
+         "description":"Enable by entering a name in MenuPopupName",
+         "href":"/"
+      }
      ]
   },
   "Footernavigation":{

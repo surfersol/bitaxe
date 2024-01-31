@@ -24,8 +24,8 @@ const { t } = useI18n({ useScope: "local" });
   "en": {
     "announcementOpenFinance": "Announcing our open finance funding.",
     "fundsLink": "Funds",
-    "bitcoinWebstackTitle": "Sovereign Webstack",
-    "proofOfWorkPudding": "We put the proof of work in the pudding",
+    "bitcoinWebstackTitle": "BITAXE ",
+    "proofOfWorkPudding": "the bitaxe is a fully open source ASIC bitcoin miner.",
     "buildBitcoinNostrDescription": "Build Bitcoin & Nostr Ecosystem Businesses and utilise the best way to farm bitcoin and stack sats! Providing goods, services and solutions for bitcoin adoption and integrations.",
     "viewProjectsButton": "View Projects",
     "getStartedLink": "Get started "
@@ -64,15 +64,9 @@ const { t } = useI18n({ useScope: "local" });
   <div class="relative isolate px-6 pt-14 lg:px-8">
     <!-- ...other elements... -->
     <div class="mx-auto max-w-4xl py-32 sm:py-48 lg:py-24">
-      <div class="hidden sm:mb-8 sm:flex sm:justify-center">
-        <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 dark:ring-white/80 dark:hover:ring-white-100/20 dark:text-white">
-          {{ t('announcementOpenFinance') }}
-          <NuxtLink :to="localePath('/funds')" class="font-semibold text-indigo-600">{{ t('fundsLink') }} <span aria-hidden="true">&rarr;</span></NuxtLink>
-        </div>
-      </div>
       <div class="text-center">
         <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">{{ t('bitcoinWebstackTitle') }}</h1>
-        <h1 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-3xl my-4">{{ t('proofOfWorkPudding') }} <span class="text-4xl">🍮</span></h1>
+        <h1 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-3xl my-4">{{ t('proofOfWorkPudding') }} <span class="text-4xl"></span></h1>
         <p class="mt-6 text-lg leading-8 text-gray-600 dark:text-white">{{ t('buildBitcoinNostrDescription') }}</p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
             <NuxtLink :to="localePath('/projects')" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">{{ t('viewProjectsButton') }}</NuxtLink>

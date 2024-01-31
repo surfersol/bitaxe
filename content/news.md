@@ -22,5 +22,9 @@ head:
 ---
 
 
-:ShopProducts
 
+:BlogFeatured
+
+
+
+:BlogFeed
