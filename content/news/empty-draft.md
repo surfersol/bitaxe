@@ -1,21 +1,22 @@
 ---
+_draft: true
 title: "Bitaxe - full open source ASIC bitcoin miner"
 layout: default
-description: "This is a more robust front matter blog post example setup"
+description: ""
 featured: true
-href: "/news/hello-bitaxe-world"
-article: "Hello Bitaxe World"
-imagelink: "/project/blog-img/hello-bitaxe-world.jpg"
-date: "Feb 2, 2024"
+href: "/news/" 
+article: "Title"
+imagelink: "/project/blog-img/draft-post.jpg"
+date: "Feb 01, 2024"
 datetime: "2024-02-01"
-categorytitle: "Community Start"
-authorname: "Sync"
-authorrole: "Bitcoin Mass Adoption"
-authorhref: "https://primal.net/p/npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6"
-authorimageUrl: "https://imgproxy.snort.social/2FreqBTxidEv-TqLfKLlE0YwMvnSJup_aA2pQv61r-k//aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNjM3MjIxYjQxZjIxZTZkNTEyNmNiNDRlNjE3MmNmODYwMGNiMWZjMTk1MzQ2MWRlMDNkODBjZTk4Mzg0NTk1My5naWY"
+categorytitle: "New User"
+authorname: ""
+authorrole: ""
+authorhref: ""
+authorimageUrl: ""
 
 image:
-  src: 'https://Bitaxe.com/project/blog-img/hello-bitaxe-world.jpg'
+  src: 'https://Bitaxe.com/project/blog-img/draft-post.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
@@ -29,8 +30,8 @@ head:
       content: 'Bitaxe.com'
     - name: 'copyright'
       content: '© 2024 Bitaxe.com'
-
 ---
+
 
 ::ContainerProse 
 

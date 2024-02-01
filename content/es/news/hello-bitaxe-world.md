@@ -11,8 +11,8 @@ datetime: "2024-02-01"
 categorytitle: "Community Start"
 authorname: "Sync"
 authorrole: "Bitcoin Mass Adoption"
-authorhref: "https://coracle.social/npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5frp9g7p3jdscnhsu049fn"
-authorimageUrl: "https://imgproxy.coracle.social/x/s:280:280/aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNmQ1NzA1MDNjMGI3NWJlNzU5NDYxYWQ0ODUwMzk4YTMzOGZkNTFkOGU2MzEzMTRjODczMWMwZDNlMWI0ZGViNy5wbmc="
+authorhref: "https://primal.net/p/npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6"
+authorimageUrl: "https://imgproxy.snort.social/2FreqBTxidEv-TqLfKLlE0YwMvnSJup_aA2pQv61r-k//aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNjM3MjIxYjQxZjIxZTZkNTEyNmNiNDRlNjE3MmNmODYwMGNiMWZjMTk1MzQ2MWRlMDNkODBjZTk4Mzg0NTk1My5naWY"
 
 image:
   src: 'https://Bitaxe.com/project/blog-img/hello-bitaxe-world.jpg'
@@ -56,7 +56,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Images
 
-![Alt text for the image](https://Bitaxe.com/project/cypher-home.gif)
+![Alt text for the image](https://Bitaxe.com/project/link-preview.jpg)
 
 ## List
 

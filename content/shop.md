@@ -1,10 +1,10 @@
 ---
 title: 'Bitaxe - full open source ASIC bitcoin miner'
 layout: default
-description: 'Building Bitcoin, Lightning & Nostr PWA frameworks to build faster & better.'
+description: 'The bitaxe community website: A fully open source ASIC bitcoin miner'
 
 image:
-  src: 'https://Bitaxe.com/project/cypher-home.gif'
+  src: 'https://Bitaxe.com/project/link-preview.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
@@ -21,6 +21,13 @@ head:
 
 ---
 
+::ContainerProse
+
+# ⚠️ Under Contstruction
+
+Currently you can go trough the order process but there are still some missing components: ( Multi Vender, Prism Split Wallet OSMU, Shipping Restrictions)
+Pictures used are for illustration & Demo purposes
+::
 
 :ShopProducts
 

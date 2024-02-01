@@ -1,10 +1,10 @@
 ---
 title: 'Bitaxe - full open source ASIC bitcoin miner'
 layout: default
-description: 'Building Bitcoin, Lightning & Nostr PWA frameworks to build faster & better.'
+description: 'The bitaxe community website: A fully open source ASIC bitcoin miner'
 
 image:
-  src: 'https://Bitaxe.com/project/cypher-home.gif'
+  src: 'https://Bitaxe.com/project/link-preview.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
@@ -23,3 +23,6 @@ head:
 
 :Hero 
 
+:Osmu
+
+:Publicpool

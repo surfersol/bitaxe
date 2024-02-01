@@ -5,11 +5,11 @@ let Primary = "#e8e1e1"
 let Secondary = "#e8e1e1"
 let Tertiary = "#000"
 
-let PrimaryDark = "#171e1e"
-let SecondaryDark = "#171e1e"
+let PrimaryDark = "#04010c"
+let SecondaryDark = "#04010c"
 let TertiaryDark = "#FFF"
 
-let HighlightPrimary = "#171e1e"
+let HighlightPrimary = "#04010c"
 let HighlightSecondary = "#6e8434"
 
 let HighdarkPrimary = "#FFF"

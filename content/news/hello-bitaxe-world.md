@@ -1,7 +1,7 @@
 ---
 title: "Bitaxe - full open source ASIC bitcoin miner"
 layout: default
-description: "This is a more robust front matter blog post example setup"
+description: "Welcome to hopefully a great extention of the bitaxe community, in this post i'll go over the long term plan for this repository and how you can contribute and make some sats in the process. This is currently still being worked out and only the content section is 95% ready, the shop still needs some extra functionality for it to work in a group."
 featured: true
 href: "/news/hello-bitaxe-world"
 article: "Hello Bitaxe World"
@@ -11,8 +11,8 @@ datetime: "2024-02-01"
 categorytitle: "Community Start"
 authorname: "Sync"
 authorrole: "Bitcoin Mass Adoption"
-authorhref: "https://coracle.social/npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5frp9g7p3jdscnhsu049fn"
-authorimageUrl: "https://imgproxy.coracle.social/x/s:280:280/aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNmQ1NzA1MDNjMGI3NWJlNzU5NDYxYWQ0ODUwMzk4YTMzOGZkNTFkOGU2MzEzMTRjODczMWMwZDNlMWI0ZGViNy5wbmc="
+authorhref: "https://primal.net/p/npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6"
+authorimageUrl: "https://imgproxy.snort.social/2FreqBTxidEv-TqLfKLlE0YwMvnSJup_aA2pQv61r-k//aHR0cHM6Ly9wZnAubm9zdHIuYnVpbGQvNjM3MjIxYjQxZjIxZTZkNTEyNmNiNDRlNjE3MmNmODYwMGNiMWZjMTk1MzQ2MWRlMDNkODBjZTk4Mzg0NTk1My5naWY"
 
 image:
   src: 'https://Bitaxe.com/project/blog-img/hello-bitaxe-world.jpg'
@@ -34,79 +34,39 @@ head:
 
 ::ContainerProse 
 
-# Advanced Markdown Front Matter Setup
+# Bitaxe Community Website
 
 ## Introduction
+Bitaxe is a fully open source hardware Bitcoin ASIC miner. Ultra is the 3rd major revision of the bitaxe that now includes the BM1366 ASIC from the S19XP. Skott's contribution to the world of Bitcoin mining with Bitaxe is not just a technological advancement but a step towards democratizing cryptocurrency mining, making it more accessible to a broader audience. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum.
+Now a community of amazing contributors and hackers help build, educate and push forward the idea of bringing mining closer to the individual.
 
-### Subsection
+## Website
+This repository is the first project to be build using the <a href="https://cypher.space" target="_blank"> Cypher Template </a>.
+The idea to help combine content and POS in an open bitcoin community only way, contribute content and guides and recieve a donation to your LNURL, list your bitaxes for sale in the community store*. 
 
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Paragraphs
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-## Block Quote
-
-> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Images
-
-![Alt text for the image](https://Bitaxe.com/project/cypher-home.gif)
-
-## List
-
-### Unordered List
-
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-- Item 3
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-## Code
-
-Inline `code` in a paragraph.
-
-### Code Block
-
-```python
-# Python code example
-def hello_world():
-    print("Hello, world!")
-```
-
-## Table
-
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
-| Row 3    | Data 5   | Data 6   |
-
-## Horizontal Rule
-
----
-
-## Emphasis
-
-*Italic*, **Bold**, and `Monospace`.
-
-## Links
-
-[OpenAI](https://www.openai.com/)
+### How to Contribute News
+Clone the file empty_news.md, fill in the front-matter with the required parameters and make sure to set draft to false , if you are not sure have a look at Initial-Setup.md as example, once you have this filled in next time you can copy 95% of this for your next guide. You will also need to add an image to the public > project > blog-img folder this is preferably a jpg, <1mb and with dimensions 1200 × 630px. You can provide your lightning address to recieve donations for your writing or leave it blank, that way if your post gets a donation it goes to the Open Source Miners Unite fund. Once you are happy with how your push your PR.
+⚠️ Still in a bug in the custom donation widget <br>
 
 
+### How to Contribute Guides
+
+ <a href="/guides/initial-setup"> Example of a article with donation </a>
+
+Clone the file empty_guide.md, fill in the front-matter with the required parameters and make sure to set draft to false , if you are not sure have a look at Initial-Setup.md as example, once you have this filled in next time you can copy 95% of this for your next guide. You will also need to add an image to the public > project > blog-img folder this is preferably a jpg, <1mb and with dimensions 1200 × 630px. You can provide your lightning address to recieve donations for your writing or leave it blank, that way if your post gets a donation it goes to the Open Source Miners Unite fund. Once you are happy with how your push your PR.
+⚠️ Still in a bug in the custom donation widget <br>
+
+
+### How to Translate
+The project Supports Local & Global translations, for a community project global translations are easiest but horrible to maintain. You can find global site paramaters translations in the locales folder. If you want to translate an existing guide or news article that is also possible copy the file and place it in the matching languages folder under guides in the content directory. 
+
+### How to Sell in the store *
+⚠️ Still in development <br>
+Currently the idea is that you can submit your products to the project.json with your LNURL and recieve the order details via webhook. The store is functional it just needs some adjustment to deal with a multi vendor setup & limitting of shipping regions.
+
+### How to Contribute Code
+TBA
 
 
 ::
