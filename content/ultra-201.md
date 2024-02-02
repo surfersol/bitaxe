@@ -25,15 +25,10 @@ head:
 
 # BITAXE 201
 
-
-
-:ShopItem{productid=2}
+Documentation + 🫡 General Link Shop
 
 
 ---
-
-
-
 
 ::
 

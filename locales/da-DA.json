@@ -1,5 +1,31 @@
 {
-  "footer":{
-    "rights":"Alle rettigheder forbeholdes."
+  "hero": {
+    "header": "BITAXE",
+    "title": "Bitaxe er en fuldt open source ASIC Bitcoin miner.",
+    "tagline": "Bygget af solominere for solominere, tilslut dig den decentraliserede miningrevolution.",
+    "shop": "Butik",
+    "start": "Kom i gang"
+  },
+
+  "osmu": {
+    "preheader": "FORENEDE ÅBEN KILDEKODE MINERE",
+    "header": "Tilslut dig OSMU revolutionen",
+    "description": "Grundlagt i marts 2023, er Open Source Miners United verdens hub for open source kryptovaluta miningprojekter. Hvad er open source minere? Industrien kontrolleres i øjeblikket af lukkede selskaber, der ikke offentliggør noget om designet af deres produkt og meget lidt info er tilgængelig for nogen uden for selve selskabet.",
+    "listitem1": "Open source minere står i direkte kontrast til de lukkede source minere udgivet af virksomheder som Bitmain, Whatsminer, Goldshell osv. Alle filer fra firmwaren til pcb-skemaerne, gerberne, KiCad-filerne offentliggøres for offentligheden.",
+    "listitem2": "OSMU er stedet, hvor open source-projekter kommer for at udvikle, lære, eksperimentere og designe deres egne projekter, som frigives som open source til offentligheden.",
+    "listitem3": "Kom og tal med os på Discord! Vores server er hvor vi taler, hænger ud, udvikler, koder og laver seje ting som de projekter, der er nævnt ovenfor!"
+  },
+
+  "publicpool": {
+    "preheader": "Bygget for solominere Offentlig Pool",
+    "header": "Der er ingen andenplads",
+    "description": "Tilslut dig den bedste solo mining pool",
+    "listitem1": "Fuldt open source solo Bitcoin mining pool",
+    "listitem2": "INGEN GEBYRER",
+    "listitem3": "https://web.public-pool.io"
+  },
+
+  "footer": {
+    "rights": "Alle rettigheder forbeholdes."
   }
 }

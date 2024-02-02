@@ -1,4 +1,29 @@
 {
+  "hero":{
+    "header":"BITAXE",
+    "title":"the bitaxe is a fully open source ASIC bitcoin miner. ",
+    "tagline":"Build by solo miners for solo miners, join the decentralised mining revolution.",
+    "shop":"Shop",
+    "start":"Get Started"
+  },
+
+  "osmu":{
+    "preheader":"OPEN SOURCE MINERS UNITE ",
+    "header":"Join the OSMU revolution",
+    "description":"Founded in March 2023, Open Source Miners United is the world's hub for open source cryptocurrency mining projects. What are open source miners? The industry is currently controlled by closed source companies that do not release anything in regards to the design of their product and very little info is available to anyone outside the company itself.",
+    "listitem1":"Open source miners are in direct contrast with the closed source miners released by companies such as Bitmain, Whatsminer, Goldshell, etc. All files from the firmware to the pcb schematics, gerbers, KiCad files are released to the public.",
+    "listitem2":"OSMU is where open source projects come to develop, learn, tinker, and design their own projects that are released as open source to the public. ",
+    "listitem3":"Come talk with us on Discord! Our server is where we talk, hangout, develop, code, and make cool things like the projects listed above!"
+  },
+
+  "publicpool":{
+    "preheader":"Build for solo miners Public Pool",
+    "header":"There is no second best",
+    "description":"Join the best solo mining pool",
+    "listitem1":"Fully Open Source Solo Bitcoin Mining Pool",
+    "listitem2":"NO FEES",
+    "listitem3":"https://web.public-pool.io"
+  },
 
   "footer":{
     "rights":"All rights reserved."

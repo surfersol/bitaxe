@@ -1,5 +1,31 @@
 {
-  "footer":{
-    "rights":"Tous les droits sont réservés."
+  "hero": {
+    "header": "BITAXE",
+    "title": "Bitaxe est un mineur de Bitcoin ASIC entièrement open source.",
+    "tagline": "Construit par des mineurs solo pour des mineurs solo, rejoignez la révolution minière décentralisée.",
+    "shop": "Boutique",
+    "start": "Commencer"
+  },
+
+  "osmu": {
+    "preheader": "MINEURS OPEN SOURCE UNIS",
+    "header": "Rejoignez la révolution OSMU",
+    "description": "Fondé en mars 2023, Open Source Miners United est le centre mondial pour les projets de minage de cryptomonnaie open source. Quels sont les mineurs open source ? Actuellement, l'industrie est contrôlée par des entreprises à source fermée qui ne publient rien concernant la conception de leurs produits et très peu d'informations sont disponibles pour les personnes extérieures à l'entreprise elle-même.",
+    "listitem1": "Les mineurs open source sont en contraste direct avec les mineurs à source fermée publiés par des entreprises telles que Bitmain, Whatsminer, Goldshell, etc. Tous les fichiers, du firmware aux schémas de PCB, gerbers, fichiers KiCad, sont publiés pour le public.",
+    "listitem2": "OSMU est l'endroit où les projets open source viennent se développer, apprendre, bricoler et concevoir leurs propres projets qui sont publiés en open source pour le public.",
+    "listitem3": "Venez discuter avec nous sur Discord ! Notre serveur est l'endroit où nous parlons, nous détendons, développons, codons et créons des choses cool comme les projets listés ci-dessus !"
+  },
+
+  "publicpool": {
+    "preheader": "Construit pour les mineurs solo Piscine Publique",
+    "header": "Il n'y a pas de second meilleur",
+    "description": "Rejoignez la meilleure piscine de minage solo",
+    "listitem1": "Piscine de Minage Solo Bitcoin Entièrement Open Source",
+    "listitem2": "SANS FRAIS",
+    "listitem3": "https://web.public-pool.io"
+  },
+
+  "footer": {
+    "rights": "Tous droits réservés."
   }
 }

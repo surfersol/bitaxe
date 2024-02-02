@@ -25,9 +25,7 @@ head:
 
 # BITAXE 204
 
-
-:ShopItem{productid=1}
-
+Documentation + 🫡 General Link Shop
 
 ---
 

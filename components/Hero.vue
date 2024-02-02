@@ -65,12 +65,12 @@ const { t } = useI18n({ useScope: "local" });
     <!-- ...other elements... -->
     <div class="mx-auto max-w-4xl py-32 sm:py-48 lg:py-24">
       <div class="text-center">
-        <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">{{ t('bitcoinWebstackTitle') }}</h1>
-        <h1 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-3xl my-4">{{ t('proofOfWorkPudding') }} <span class="text-4xl"></span></h1>
-        <p class="mt-6 text-lg leading-8 text-gray-600 dark:text-white">Build by solo miners for solo miners, join the decentralised mining revolution.</p>
+        <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">{{ $t("hero.header") }}</h1>
+        <h1 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-3xl my-4">{{ $t("hero.title") }}<span class="text-4xl"></span></h1>
+        <p class="mt-6 text-lg leading-8 text-gray-600 dark:text-white">{{ $t("hero.tagline") }}</p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
-            <NuxtLink :to="localePath('/shop')" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Shop</NuxtLink>
-            <NuxtLink :to="localePath('/guides')" class="text-sm font-semibold leading-6 text-gray-900 dark:text-white">{{ t('getStartedLink') }} <span aria-hidden="true">→</span></NuxtLink>
+            <NuxtLink :to="localePath('/shop')" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">{{ $t("hero.shop") }}</NuxtLink>
+            <NuxtLink :to="localePath('/guides')" class="text-sm font-semibold leading-6 text-gray-900 dark:text-white">{{ $t("hero.start") }} <span aria-hidden="true">→</span></NuxtLink>
         </div>
       </div>
     </div>

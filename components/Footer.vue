@@ -1,5 +1,6 @@
 <script setup>
 import data from "~/config/setup";
+const currentDate = new Date();
 </script>
 <template>
   <footer
@@ -127,7 +128,7 @@ import data from "~/config/setup";
           <p
             class="text-xs leading-5 text-black dark:text-black dark:text-white mt-1"
           >
-            &copy; 2023 {{ data.name }}, Inc. All rights reserved.
+            &copy; {{ currentDate.getFullYear() }} {{ data.name }}, {{ $t("footer.rights") }}.
           </p>
         </div>
       </div>

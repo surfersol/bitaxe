@@ -1,5 +1,31 @@
 {
-  "footer":{
-    "rights":"Alle Rechte vorbehalten."
+  "hero": {
+    "header": "BITAXE",
+    "title": "Die Bitaxe ist ein vollständig quelloffener ASIC-Bitcoin-Miner.",
+    "tagline": "Gebaut von Einzelminern für Einzelminer, trete der dezentralisierten Mining-Revolution bei.",
+    "shop": "Shop",
+    "start": "Loslegen"
+  },
+
+  "osmu": {
+    "preheader": "VEREINIGTE QUELLOFFENE MINER",
+    "header": "Trete der OSMU-Revolution bei",
+    "description": "Gegründet im März 2023, ist Open Source Miners United das weltweite Zentrum für quelloffene Kryptowährungs-Mining-Projekte. Was sind quelloffene Miner? Die Industrie wird derzeit von geschlossenen Unternehmen kontrolliert, die nichts in Bezug auf das Design ihrer Produkte veröffentlichen und nur sehr wenige Informationen an Außenstehende weitergeben.",
+    "listitem1": "Quelloffene Miner stehen im direkten Kontrast zu den geschlossenen Minern, die von Unternehmen wie Bitmain, Whatsminer, Goldshell usw. veröffentlicht werden. Alle Dateien von der Firmware bis zu den PCB-Schaltplänen, Gerbers, KiCad-Dateien werden der Öffentlichkeit zugänglich gemacht.",
+    "listitem2": "OSMU ist der Ort, an dem quelloffene Projekte entwickelt, gelernt, gebastelt und entworfen werden, die als Open Source für die Öffentlichkeit freigegeben werden.",
+    "listitem3": "Komm und sprich mit uns auf Discord! Unser Server ist der Ort, an dem wir reden, abhängen, entwickeln, programmieren und coole Dinge wie die oben aufgeführten Projekte machen!"
+  },
+
+  "publicpool": {
+    "preheader": "Gebaut für Einzelminer Öffentlicher Pool",
+    "header": "Es gibt keinen zweiten Platz",
+    "description": "Trete dem besten Solo-Mining-Pool bei",
+    "listitem1": "Vollständig quelloffener Solo Bitcoin Mining Pool",
+    "listitem2": "KEINE GEBÜHREN",
+    "listitem3": "https://web.public-pool.io"
+  },
+
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
   }
 }

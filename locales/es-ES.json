@@ -1,5 +1,31 @@
 {
-  "footer":{
-    "rights":"Reservados todos los derechos."
+  "hero": {
+    "header": "BITAXE",
+    "title": "Bitaxe es un minero de Bitcoin ASIC completamente de código abierto.",
+    "tagline": "Construido por mineros individuales para mineros individuales, únete a la revolución de minería descentralizada.",
+    "shop": "Tienda",
+    "start": "Comenzar"
+  },
+
+  "osmu": {
+    "preheader": "MINEROS DE CÓDIGO ABIERTO UNIDOS",
+    "header": "Únete a la revolución de OSMU",
+    "description": "Fundado en marzo de 2023, Open Source Miners United es el centro mundial para proyectos de minería de criptomonedas de código abierto. ¿Qué son los mineros de código abierto? Actualmente, la industria está controlada por empresas de código cerrado que no publican nada respecto al diseño de sus productos y muy poca información está disponible para personas fuera de la propia empresa.",
+    "listitem1": "Los mineros de código abierto están en directo contraste con los mineros de código cerrado lanzados por compañías como Bitmain, Whatsminer, Goldshell, etc. Todos los archivos, desde el firmware hasta los esquemáticos de PCB, gerbers, archivos KiCad, se publican al público.",
+    "listitem2": "OSMU es donde los proyectos de código abierto vienen a desarrollar, aprender, experimentar y diseñar sus propios proyectos que se lanzan como código abierto al público.",
+    "listitem3": "¡Ven y habla con nosotros en Discord! Nuestro servidor es donde hablamos, pasamos el rato, desarrollamos, codificamos y hacemos cosas geniales como los proyectos mencionados anteriormente."
+  },
+
+  "publicpool": {
+    "preheader": "Construido para mineros individuales Piscina Pública",
+    "header": "No hay segundo mejor",
+    "description": "Únete a la mejor piscina de minería individual",
+    "listitem1": "Piscina de Minería de Bitcoin Solo Completamente de Código Abierto",
+    "listitem2": "SIN TASAS",
+    "listitem3": "https://web.public-pool.io"
+  },
+
+  "footer": {
+    "rights": "Todos los derechos reservados."
   }
 }

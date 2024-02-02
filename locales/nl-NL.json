@@ -1,5 +1,31 @@
 {
-  "footer":{
-    "rights":"Alle rechten voorbehouden."
+  "hero": {
+    "header": "BITAXE",
+    "title": "De Bitaxe is een volledig open-source ASIC Bitcoin miner.",
+    "tagline": "Gebouwd door solo miners voor solo miners, sluit je aan bij de gedecentraliseerde mining revolutie.",
+    "shop": "Winkel",
+    "start": "Beginnen"
+  },
+
+  "osmu": {
+    "preheader": "VERENIGDE OPEN-BRON MIJNERS",
+    "header": "Sluit je aan bij de OSMU revolutie",
+    "description": "Opgericht in maart 2023, is Open Source Miners United het wereldwijde centrum voor open-bron cryptocurrency mining projecten. Wat zijn open-bron miners? De industrie wordt momenteel gecontroleerd door gesloten-bron bedrijven die niets vrijgeven over het ontwerp van hun product en zeer weinig info is beschikbaar voor iemand buiten het bedrijf zelf.",
+    "listitem1": "Open-bron miners staan in direct contrast met de gesloten-bron miners uitgebracht door bedrijven zoals Bitmain, Whatsminer, Goldshell, enz. Alle bestanden van de firmware tot de pcb-schema's, gerbers, KiCad-bestanden worden openbaar gemaakt.",
+    "listitem2": "OSMU is waar open-bron projecten komen om te ontwikkelen, leren, knutselen en hun eigen projecten ontwerpen die als open-bron voor het publiek worden vrijgegeven.",
+    "listitem3": "Kom met ons praten op Discord! Onze server is waar we praten, rondhangen, ontwikkelen, coderen en coole dingen maken zoals de hierboven vermelde projecten!"
+  },
+
+  "publicpool": {
+    "preheader": "Gebouwd voor solo miners Openbaar Zwembad",
+    "header": "Er is geen tweede beste",
+    "description": "Doe mee met het beste solo mining zwembad",
+    "listitem1": "Volledig Open-Bron Solo Bitcoin Mining Zwembad",
+    "listitem2": "GEEN KOSTEN",
+    "listitem3": "https://web.public-pool.io"
+  },
+
+  "footer": {
+    "rights": "Alle rechten voorbehouden."
   }
 }
