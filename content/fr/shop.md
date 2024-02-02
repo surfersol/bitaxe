@@ -23,10 +23,10 @@ head:
 
 ::ContainerProse
 
-# ⚠️ Under Development
+# ⚠️ En cours de développement
 
-Currently you can go trough the order process but there are still some missing components: ( Multi Vender, Prism Split Wallet OSMU, Shipping Restrictions)
-Pictures used are for illustration & Demo purposes
+Actuellement, vous pouvez suivre le processus de commande mais il manque encore quelques composants : (Multi Vender, Prism Split Wallet OSMU, Restrictions d'expédition)
+Les images utilisées sont à des fins d'illustration et de démonstration
 ::
 
 :ShopProducts
