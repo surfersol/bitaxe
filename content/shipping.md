@@ -28,33 +28,15 @@ head:
 
 ## Introduction
 
-- Welcome to :LegalProject! We're delighted to offer you a seamless shopping experience, including our hassle-free shipping process. This Shipping Policy explains our shipping procedures and practices.
+All vendors in the shop are independant makers, we do not ship bitaxes ourselves this is a community "vetted" store. If you encounter any problems with your shipment please direct your questions to the seller.
 
-## Shipping Schedule
+## Shipping prices
 
-- Weekly Shipments: We dispatch orders once a week. Your order will be included in our next shipment following your purchase.
+All prices listed come with shipping cost included a vendor can choose to select zones they support shipping too, 
 
-## Shipping Process
+## Order process
+Your shipping and order details are only shared with the vendor you bought from not with the community, however a fixed amount of the order goes to OSMU, this can go trough a proxy wallet with a read only credential making it possible to announce that a bitaxe has been bought trough the store. Also durring order you will only see products of the same vendor once you have selected a product. 
 
-- Confirmation and Tracking: After your order is dispatched, you'll receive a confirmation email with a tracking number, allowing you to track your shipment’s progress.
-- Shipping Carriers: We partner with [List of Shipping Carriers] to ensure reliable and efficient delivery.
-- Estimated Delivery Time: Delivery times may vary based on your location and external factors, but we always strive for prompt delivery.
 
-## Free Worldwide Shipping
-
-- No Shipping Charges: We are pleased to offer free shipping on all orders, regardless of size or destination, to any location around the world.
-- International Shipping: All international shipping fees, including duties and taxes, are covered by us. There are no additional costs for our customers.
-
-## Loss or Damage
-
-- Reporting Issues: If your order is lost or damaged during transit, please contact us immediately at :LegalMail .
-
-## Special Instructions
-
-- If you have special shipping requests or instructions, please include them in your order notes or contact us directly at :LegalMail before the shipping date of your order.
-
-## Contact Us
-
-For questions or concerns about your order or our Shipping Policy, please contact us at :LegalMail . We're here to assist you!
 
 ::

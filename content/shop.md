@@ -23,7 +23,7 @@ head:
 
 ::ContainerProse
 
-# ⚠️ Under Contstruction
+# ⚠️ Under Construction
 
 Currently you can go trough the order process but there are still some missing components: ( Multi Vender, Prism Split Wallet OSMU, Shipping Restrictions)
 Pictures used are for illustration & Demo purposes
