@@ -57,7 +57,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Images
 
-![Alt text for the image](https://Bitaxe.com/project/link-preview.jpg)
+![Alt text for the image](https://demo.bitaxe.com/project/link-preview.jpg)
 
 ## List
 

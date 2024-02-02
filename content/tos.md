@@ -4,7 +4,7 @@ layout: default
 description: 'The bitaxe community website: A fully open source ASIC bitcoin miner'
 
 image:
-  src: 'https://Bitaxe.com/project/link-preview.jpg'
+  src: 'https://demo.bitaxe.com/project/link-preview.jpg'
   alt: 'An image showcasing My Page.'
   width: 1200
   height: 630
